@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ide-krl",
+        "command": "ide-krl:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ide-krl",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ide-krl:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
