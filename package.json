@@ -1,6 +1,6 @@
 {
   "name": "ide-krl",
-  "main": "./lib/ide-krl",
+  "main": "lib/main.js",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
@@ -15,8 +15,7 @@
   "scripts": {
     "compile": "tsc -b"
   },
-  "main":"lib/main.js",
-  "enhancedScopes":[
+  "enhancedScopes": [
     "source.krl"
   ],
   "consumedServices": {
