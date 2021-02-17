@@ -1,5 +1,4 @@
-# ide-krl package
+# atom-ide-krl package
 
-A short description of your package.
+See [Atom IDE for KRL](https://picolabs.atlassian.net/wiki/spaces/docs/pages/915996742/Atom+Editor+with+KRL) for instructions.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
